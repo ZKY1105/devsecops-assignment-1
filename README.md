@@ -1,11 +1,12 @@
-﻿# DevSecOps Assignment 1
+# MediTrack - DevSecOps Assignment 1
 
-**Name:** [Your Full Name]  
-**Student Number:** [Your Student Number]  
+## Overview
+MediTrack is a secure healthcare application tracking system designed to demonstrate core DevSecOps principles, automated CI/CD pipeline security, and vulnerability management.
 
-## Description
-This repository contains the practical deliverables for Module One: DevOps and DevSecOps Foundations.
-
-## Project structure
-- pp/ - Application source code and entry point
-- config/ - Configuration and environment loader modules
+## Project Structure
+devsecops-assignment-1/
+├── app/
+│   └── index.js
+├── .gitignore
+├── package.json
+└── README.md
