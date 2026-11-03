@@ -1,0 +1,13 @@
+{
+  "name": "devsecops-assignment-1",
+  "version": "1.0.0",
+  "description": "MediTrack DevSecOps Assignment 1",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
